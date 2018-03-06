@@ -91,3 +91,5 @@ deprecated (if it supports such a feature) so you can eventually refactor it to 
 ## Joomla! trademark disclaimer
 
 This project is not affiliated with or endorsed by the Joomla! Project. It is not supported or warranted by the Joomla! Project or Open Source Matters. Open Source Matters is the trademark holder of the Joomla! name and logo in the United States and other countries. The Joomla! name is used by this project according to the [fair use](https://en.wikipedia.org/wiki/Fair_use) doctrine.
+
+##ceci est un test
